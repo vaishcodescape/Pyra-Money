@@ -1,4 +1,5 @@
 # Pyra-Money
+
 Pyra Money is a online application which allows people to track their expenses and savings its the perfect tool for people to manage their expenses.
 
-made with Next.js and Tailwind CSS
+made with Next.js and Tailwind-CSS
